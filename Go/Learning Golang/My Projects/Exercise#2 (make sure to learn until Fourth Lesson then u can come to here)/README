@@ -1,0 +1,18 @@
+// Study Case Exercise
+// terdiri dari 10 kasus
+1) Buat program yang menggunakan fungsi bersarang untuk menghitung faktorial, dengan variabel di berbagai scope.
+2) Konversi suhu dari Fahrenheit ke Celsius dan Kelvin, lalu tampilkan hasilnya.
+3) Periksa apakah sebuah bilangan adalah bilangan prima.
+4) Hitung rata-rata nilai, pastikan semua input valid.
+5) Tentukan apakah bilangan dalam variabel adalah ganjil atau genap.
+6) Gunakan konstanta untuk menyimpan batas maksimum nilai ujian, dan periksa apakah nilai siswa melampaui batas.
+7) Bandingkan dua angka dan tampilkan hasilnya.
+8) Buat program yang dapat menghitung luas dan keliling lingkaran dengan j
+9) Buat program yang dapat menghitung luas dan keliling persegi panjang dengan jarak
+10 ) Tentukan apakah sebuah tahun adalah tahun kabisat.
+
+// Selamat mengerjakan
+// Note Untuk mengerjakan nya di dalam GO Filepath nya memang sedikit ribet
+namun solusi yang pas adalah setiap 1 study case buat file nya masing masing dan rename dengan nama yg jelas agar mudah dipahami dan didalam 1 file tidak boleh ada 1 file.go yg lebih karena func main(){} hanya bisa digunakan sekali saja dalam 1 file
+
+Good Luck
